@@ -1,1 +1,2 @@
-# Amazon_fine_food_review_solutions
+# AAIC-Assignments
+Machine Learning and Deep Learning Models
